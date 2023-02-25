@@ -1,0 +1,22 @@
+.bg-white {
+    background-color: white;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+#box {
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+  }
